@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeTask_2_10</string>
+    <string name="model">Модель</string>
+    <string name="number">Номер</string>
+    <string name="year">Год выпуска</string>
+    <string name="add">Добавить</string>
+    <string name="showCar">Показать Авто</string>
+    <string name="insert_success">Запись успешно добавлена</string>
+    <string name="incorrect_value">Вы ввели некорректное значение</string>
+    <string name="insert_error">При добавлении произошла ошибка</string>
+    <string name="student">Скорик Константин, РИБО-05-22, Вариант 1</string>
+</resources>
